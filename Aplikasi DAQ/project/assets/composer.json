@@ -1,0 +1,10 @@
+{
+    "require": {
+        "picqer/php-barcode-generator": "^2.1",
+        "endroid/qr-code": "^3.9",
+        "mike42/escpos-php": "^3.0",
+        "mpdf/mpdf": "^8.0",
+        "spatie/pdf-to-image": "^2.1",
+        "php-aidc/label-printer": "^0.3.0"
+    }
+}

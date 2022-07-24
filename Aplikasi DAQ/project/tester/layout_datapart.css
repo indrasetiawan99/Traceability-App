@@ -1,0 +1,115 @@
+table,
+th,
+td {
+  border: 2px solid black;
+}
+
+table {
+  height: 55mm;
+  border-collapse: collapse;
+}
+
+body {
+  margin: 5mm 0mm 0mm 0mm;
+}
+
+#rs1 {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+}
+
+.align-middle {
+  vertical-align: middle;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.no {
+  width: 5mm;
+}
+
+.font {
+  font-family: Arial;
+}
+
+.fs75 {
+  font-size: 75%;
+}
+
+.col1 {
+  height: 5mm;
+}
+
+.col2 {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+  width: 5mm;
+  transform: rotate(180deg);
+}
+
+.col3 {
+  height: 10mm;
+  width: 17mm;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.col4b {
+  width: 17mm;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.col5 {
+  height: 10mm;
+  width: 30mm;
+}
+
+.col6 {
+  height: 6mm;
+  width: 70mm;
+}
+
+.col8 {
+  height: 7mm;
+}
+
+.col9 {
+  height: 5mm;
+  width: 25mm;
+}
+
+.col10 {
+  width: 30mm;
+}
+
+.col10b {
+  width: 20mm;
+}
+
+.col11 {
+  width: 22mm;
+}
+
+.col12 {
+  width: 22mm;
+}
+
+.col13 {
+  width: 30mm;
+  height: 5mm;
+}
+
+.col4 img {
+  width: 370px;
+}
