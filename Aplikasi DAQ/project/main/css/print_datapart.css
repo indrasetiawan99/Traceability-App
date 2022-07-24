@@ -1,0 +1,47 @@
+/* Color Text */
+.c1 {
+  color: #d7d7d7;
+  font-weight: bold;
+}
+.c2 {
+  color: #d7d7d7;
+}
+.c3 {
+  color: #343a40;
+}
+
+/* Width in pixel */
+.w20 {
+  width: 20px;
+}
+.w30 {
+  width: 30px;
+}
+.w50 {
+  width: 50px;
+}
+.w60 {
+  width: 60px;
+}
+.w120 {
+  width: 120px;
+}
+.w705 {
+  width: 705px;
+}
+
+/* Height in pixel */
+.h30 {
+  height: 30px;
+}
+.h70 {
+  height: 70px;
+}
+.h250 {
+  height: 250px;
+}
+
+/* Size and color border */
+.b1 {
+  border: 1px solid black;
+}
